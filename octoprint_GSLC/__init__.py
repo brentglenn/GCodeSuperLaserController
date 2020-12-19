@@ -7,7 +7,7 @@ import os
 import sys
 import re
 
-INVERT = False
+INVERT = True
 DEBUG  = False
 PCIO_ID  = "18"
 PIGS_CMD = "pigs p " + PCIO_ID + " "
